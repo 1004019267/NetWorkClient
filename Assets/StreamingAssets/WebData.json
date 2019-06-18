@@ -1,0 +1,15 @@
+{
+  "ipAddress": "http://192.168.40.153:8000/",
+  "urlPaths": {
+    "LOGIN": "webapi/login/",
+    "REGISTER": "webapi/register/",
+    "COLLEGELIST": "user/college/list_combo/",
+    "MAJORLIST": "user/major/list_combo/",
+    "CLASSLIST": "user/class/list_combo/",
+    "EXISTMAIL": "webapi/existemail/",
+    "EXISTNUMBER": "webapi/existnumber/",
+    "GETPASSWORD": "webapi/forget_pass/",
+    "ADDSCORE": "webapi/add_score/",
+    "DownLoad": "123/"
+  }
+}
